@@ -83,7 +83,7 @@ color: rgb(3, 169, 244)
 
 
 .content {
-    margin-bottom: 84px;
+    margin-bottom: 70px;
 }
 
 .content-list {
@@ -105,7 +105,7 @@ font-size: 0;
     margin-right: 60px;
 }
 
-.content-list-item:not(:nth-child(-n+2)) {
+.content-list-item:not(:nth-child(-n+6)) {
     margin-bottom: 0;
 }
 
@@ -151,6 +151,9 @@ img {
 
 }
 
+.center-block {
+    margin-bottom: 114px;
+}
 
 .bottom-text {
     margin-bottom: 30px;
